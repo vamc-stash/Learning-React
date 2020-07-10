@@ -1,0 +1,102 @@
+body {
+  margin-left: 15%;
+  margin-top: 5%;
+  margin-right: 15%;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html{
+	line-height: 1.15;
+	-webkit-text-size-adjust: 100%;
+}
+
+main{
+	display: block;
+}
+
+*{
+	box-sizing: border-box;
+}
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+form > input, label{
+	width: 100%;
+	font-size: 3vh;
+	margin: 0.5%
+}
+form > input[type = "submit"]{
+	background-color: #4CAF50;
+	border: none;
+	width: 20%;
+	margin-top: 1%;
+	padding: 0.5%;
+}
+
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	max-width: 100%;
+}
+head th {
+  border-bottom: 2px solid #dedede;
+}
+
+tfoot th {
+  border-top: 2px solid #dedede;
+}
+
+td {
+  border-bottom: 1px solid #dedede;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.5rem;
+}
+
+
+
+
+@media (min-width: 600px) {
+  h1:not(:first-child),
+  h2:not(:first-child),
+  h3:not(:first-child) {
+    margin-top: 2.5rem;
+  }
+  h1 {
+    font-size: 2.25rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  h4 {
+    font-size: 1.5rem;
+  }
+  h5 {
+    font-size: 1.25rem;
+  }
+}
