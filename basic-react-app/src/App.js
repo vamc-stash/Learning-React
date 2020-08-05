@@ -26,7 +26,6 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.state)
     return (
       <div className='container'>
         <h1>A Simple React.js Form</h1>
