@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/arrange-numbers/static/css/main.ee406185.chunk.css",
-    "main.js": "/arrange-numbers/static/js/main.05b7c54b.chunk.js",
-    "main.js.map": "/arrange-numbers/static/js/main.05b7c54b.chunk.js.map",
-    "runtime-main.js": "/arrange-numbers/static/js/runtime-main.6b079b62.js",
-    "runtime-main.js.map": "/arrange-numbers/static/js/runtime-main.6b079b62.js.map",
-    "static/js/2.a7741152.chunk.js": "/arrange-numbers/static/js/2.a7741152.chunk.js",
-    "static/js/2.a7741152.chunk.js.map": "/arrange-numbers/static/js/2.a7741152.chunk.js.map",
-    "index.html": "/arrange-numbers/index.html",
-    "precache-manifest.8579e343316d6b6d1c6a1df49b5d6d84.js": "/arrange-numbers/precache-manifest.8579e343316d6b6d1c6a1df49b5d6d84.js",
-    "service-worker.js": "/arrange-numbers/service-worker.js",
-    "static/css/main.ee406185.chunk.css.map": "/arrange-numbers/static/css/main.ee406185.chunk.css.map",
-    "static/js/2.a7741152.chunk.js.LICENSE.txt": "/arrange-numbers/static/js/2.a7741152.chunk.js.LICENSE.txt"
+    "main.css": "/Learning-React/arrange-numbers/static/css/main.ee406185.chunk.css",
+    "main.js": "/Learning-React/arrange-numbers/static/js/main.3b6cbfe4.chunk.js",
+    "main.js.map": "/Learning-React/arrange-numbers/static/js/main.3b6cbfe4.chunk.js.map",
+    "runtime-main.js": "/Learning-React/arrange-numbers/static/js/runtime-main.a4c96d43.js",
+    "runtime-main.js.map": "/Learning-React/arrange-numbers/static/js/runtime-main.a4c96d43.js.map",
+    "static/js/2.a7741152.chunk.js": "/Learning-React/arrange-numbers/static/js/2.a7741152.chunk.js",
+    "static/js/2.a7741152.chunk.js.map": "/Learning-React/arrange-numbers/static/js/2.a7741152.chunk.js.map",
+    "index.html": "/Learning-React/arrange-numbers/index.html",
+    "precache-manifest.1c215a6107b8d370e6bd8a8644be59f9.js": "/Learning-React/arrange-numbers/precache-manifest.1c215a6107b8d370e6bd8a8644be59f9.js",
+    "service-worker.js": "/Learning-React/arrange-numbers/service-worker.js",
+    "static/css/main.ee406185.chunk.css.map": "/Learning-React/arrange-numbers/static/css/main.ee406185.chunk.css.map",
+    "static/js/2.a7741152.chunk.js.LICENSE.txt": "/Learning-React/arrange-numbers/static/js/2.a7741152.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b079b62.js",
+    "static/js/runtime-main.a4c96d43.js",
     "static/js/2.a7741152.chunk.js",
     "static/css/main.ee406185.chunk.css",
-    "static/js/main.05b7c54b.chunk.js"
+    "static/js/main.3b6cbfe4.chunk.js"
   ]
 }
