@@ -2,9 +2,19 @@
   text-align: center;
 }
 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
 .clock {
   text-align: left;
-  margin-top: -30%;
+  margin-top: -20%;
   margin-left: 0%;
   transform: rotate(-90deg);
 }

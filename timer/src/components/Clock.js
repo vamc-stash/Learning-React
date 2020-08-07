@@ -30,19 +30,19 @@ class Clock extends Component {
    rot: time[0]*30,
    length: 100,
    thickness: 6,
-   color: '#006600'
+   color: '#336699'
   }
   const minuteHand = {
    rot: time[1]*6,
    length: 200,
    thickness: 4,
-   color: '#003399'
+   color: '#00b386'
   }
   const secondHand = {
    rot: time[2]*6,
    length: 250,
-   thickness: 2,
-   color: '#ff0066'
+   thickness: 3,
+   color: '#ff6666'
   }
 
 		return(
